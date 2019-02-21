@@ -1,4 +1,2 @@
-Exercício de revisão de OO
-primeira atividade de POO
-Implemente o diagrama de classes a seguir. Use uma taxa de 10% no calculo do tributo sobre o saldo.
-![diagrama ]()
+# repositório para criação de atividades da disciplina de POO2
+[conta corrente]() 
